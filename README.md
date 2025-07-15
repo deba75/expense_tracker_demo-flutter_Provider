@@ -212,7 +212,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 
 - 📧 Email: [dabasis534@gmail.com](mailto:dabasis534@gmail.com)
-- 🔗 LinkedIn: [linkedin.com/in/dabasis-das-011a96310](https://www.linkedin.com/in/dabasis-das-011a96310)
+- 🔗 LinkedIn: [Dabasis Das](https://www.linkedin.com/in/dabasis-das-011a96310)
 
 
 
