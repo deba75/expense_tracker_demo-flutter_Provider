@@ -210,9 +210,9 @@ This project is open source and available under the [MIT License](LICENSE).
 
 **[Deba](https://github.com/deba75)**
 
-- 📧 Email: dabasis534@gmail.com
-- 💼 LinkedIn: www.linkedin.com/in/
-dabasis-das-011a96310
+
+- 📧 Email: [dabasis534@gmail.com](mailto:dabasis534@gmail.com)
+- 🔗 LinkedIn: [linkedin.com/in/dabasis-das-011a96310](https://www.linkedin.com/in/dabasis-das-011a96310)
 
 
 
