@@ -210,9 +210,11 @@ This project is open source and available under the [MIT License](LICENSE).
 
 **[Deba](https://github.com/deba75)**
 
-- 📧 Email: [Your Email]
-- 💼 LinkedIn: [Your LinkedIn]
-- 🐦 Twitter: [Your Twitter]
+- 📧 Email: dabasis534@gmail.com
+- 💼 LinkedIn: www.linkedin.com/in/
+dabasis-das-011a96310
+
+
 
 ---
 
@@ -220,6 +222,6 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ### 🌟 If you found this project helpful, please give it a star! 🌟
 
-*Made with ❤️ using Flutter & Provider*
+*Made with Flutter & Provider*
 
 </div>
